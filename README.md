@@ -1,2 +1,3 @@
 # Multi-armed-bandit
-Epsilon-greedy algorithm
+
+Epsilon-greedy algorithm. 
